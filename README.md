@@ -1,5 +1,5 @@
 # 165A-Winter-2025
-# NoNameDB
+# NoNameDB (m3-1.0)
 
 ## Team
 - __Aadhil Mubarak Syed__
@@ -29,3 +29,12 @@
 ---
 
 ### Milestone 3
+## Team
+- __Yukai Sun__
+- __Jaynor Singon__
+- __Victoria Ramos__
+  
+|Implemented:|
+|-------------|
+|✅ Transaction |
+|✅ Concurrency Control |
