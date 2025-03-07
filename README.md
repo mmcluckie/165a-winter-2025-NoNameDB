@@ -37,4 +37,5 @@
 |Implemented:|
 |-------------|
 |✅ Transaction |
+|✅ Transaction Worker |
 |✅ Concurrency Control |
